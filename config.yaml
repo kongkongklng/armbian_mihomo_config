@@ -9,7 +9,7 @@ proxy-providers:
       interval: 300
     proxy: 🟢 直连
     url: "https://no3-svip.urlapi-dodo.cyou/s?t=f72cae207bf5b569ca297c825a9d73f2"      
-# 用于下载订阅时指定UA
+# 用于_下载订阅时指定UA
 global-ua: clash
     
 # 全局配置
