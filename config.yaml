@@ -10,7 +10,7 @@ proxy-providers:
     proxy: 🟢 直连
     url: "https://sub.xfltd.bond/api/v1/client/subscribe?token=1c55f0cdfe41727f1525c96ffb6fd862"
 proxy-providers:
-  Airport_01:
+  Airport_02:
     type: http
     interval: 1800
     health-check:
