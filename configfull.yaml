@@ -9,6 +9,15 @@ proxy-providers:
       interval: 300
     proxy: 🟢 直连
     url: "https://no3-svip.urlapi-dodo.cyou/s?t=f72cae207bf5b569ca297c825a9d73f2"
+    Airport_02:
+    type: http
+    interval: 1800
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+    url: "https://sub.xfltd.bond/api/v1/client/subscribe?token=1c55f0cdfe41727f1525c96ffb6fd862"
       
 # 用于下载订阅时指定UA
 global-ua: clash
